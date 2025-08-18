@@ -21,7 +21,7 @@ This ROI Calculator is a modern web application designed to simplify return anal
 
 **Live Demo**
 
-Access the live application here: **[Insert your hosted app link here]**
+Access the live application here: **[https://desireesalvant.github.io/roicalculator/t your hosted app link here]**
 
 No installation required.
 
